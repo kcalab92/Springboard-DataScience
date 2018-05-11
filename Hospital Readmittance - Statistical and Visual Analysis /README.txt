@@ -1,0 +1,1 @@
+The project critiques a preliminary analysis of hospital readmissions data through adding a higher level of statistical analysis, assessing the practicality of the statistical results, and improving the visualization of the data. 

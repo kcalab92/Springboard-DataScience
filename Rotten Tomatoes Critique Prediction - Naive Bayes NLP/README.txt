@@ -1,0 +1,1 @@
+This project aims to predict whether a rotten tomatoes critic quote was fresh or rotten based on the text using a Multinomial Naive Bayes model.

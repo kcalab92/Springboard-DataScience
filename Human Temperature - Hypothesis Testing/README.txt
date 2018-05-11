@@ -1,0 +1,1 @@
+This exercise tests whether Carl Wunderlich accurately assessed the mean normal body temperature of humans to be 98.6° F,  by analyzing a set of human body temperatures and employing concepts of hypothesis testing, confidence intervals and statistical significance. 

@@ -1,0 +1,1 @@
+This project aims to cluster a wine companies customers based on their purchase history and responses to various marketing campaigns by using a number of clustering algorithms and tools including K-means, Silhouette method, elbow method, and PCA. 
