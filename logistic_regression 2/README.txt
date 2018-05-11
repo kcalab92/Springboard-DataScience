@@ -1,1 +1,0 @@
-This project uses logistic regression and grid search to try to predict whether a sample of height and weight data is male or female. 
