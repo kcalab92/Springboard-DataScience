@@ -1,4 +1,8 @@
 Analytics Vidya Black Friday Sales Forecasting 
+Springboard Data Science Career Track Capstone One
+
+Full report here: https://docs.google.com/document/d/1ePKGz2fP5EalTBK4t2wBatlFih7JEnLD8zB1_0m1xFg/edit
+
 
 The goal of this project was to predict ABC Private Limited (an online retailer) customer's purchase amounts for the upcoming month for a selection of popular products that the customers have purchased in the past. The data available for building the prediction model included the customers’ purchasing history i.e. the product ID, purchase amount of the product (target variable) and product category (each product could fall into up to three different product categories) as well as customer demographic data including gender, age, occupation, city category, number of years stayed in current city, and marital status. 
 
